@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Python application uses OpenAI's GPT-3.5 Turbo to generate social media posts and accompanying images. It provides the ability to create posts in various languages and for different social media platforms.
+This Python application demonstrates a bot that uses OpenAI's GPT-3.5 Turbo to generate social media posts and accompanying images. It provides the ability to create posts in various languages and for different social media platforms.
 
 ## Prerequisites
 
@@ -51,6 +51,9 @@ Before you can run this application, you need to set up the following prerequisi
 
 ## How it Works
 The application utilizes OpenAI's GPT-3.5 Turbo model to generate text and images based on the provided prompts. You can customize the prompts to generate content for different languages and social media platforms.
+
+## Demo Video Link
+Google Drive [link](https://drive.google.com/drive/folders/1t7ersMZj1L1MMCC8OBt8iZjr8cematsP?usp=sharing)
 
 ## Credits
 This application was created by Team Corazon.
