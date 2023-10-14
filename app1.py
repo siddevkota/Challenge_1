@@ -1,7 +1,7 @@
 import openai
 import streamlit as st
 
-openai.api_key = "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"
+openai.api_key = "YOUR_OPEN_AI_API_KEY"
 
 def generate_social_media_post(combined_prompt):
     response = openai.Completion.create(
